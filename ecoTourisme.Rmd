@@ -10,7 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Problèmatique de recherche
-Trois axes
-
+introduction
 
 ```{r}
