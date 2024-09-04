@@ -10,6 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Problèmatique de recherche
-introduction
+Contexte
+Objtectif
+Hypothèses
+
 
 ```{r}
