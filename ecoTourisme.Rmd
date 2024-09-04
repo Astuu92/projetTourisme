@@ -1,0 +1,16 @@
+---
+title: "ecotourisme"
+author: "Asta Astou"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Problèmatique de recherche
+
+
+
+```{r}
