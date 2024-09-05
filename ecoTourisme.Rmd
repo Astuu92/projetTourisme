@@ -14,7 +14,7 @@ Contexte
 Objtectif
 Hypothèses
 Plan
-TRAVAIL
+TRAVAIL à faire
 
 
 ```{r}
