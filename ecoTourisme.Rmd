@@ -14,8 +14,8 @@ Contexte
 Objtectif
 Hypothèses
 Plan
-TRAVAIL à faire
-test github
+## brève revue de la littérature
+
 
 
 ```{r}
